@@ -1,0 +1,3 @@
+>&2 means send the output to STDERR, So it will print the message as an error on the console.
+
+https://acloudguru.com/blog/engineering/conditions-in-bash-scripting-if-statements 
